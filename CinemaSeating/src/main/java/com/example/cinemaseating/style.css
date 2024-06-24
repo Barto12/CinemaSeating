@@ -1,0 +1,12 @@
+#seatButton {
+    -fx-font-size: 14px;
+    -fx-background-color: #ff6347;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+#seatButton:hover {
+    -fx-background-color: #ffa07a;
+}
